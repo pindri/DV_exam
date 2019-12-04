@@ -6,7 +6,7 @@
       "votes":556816,
       "metascore":9.5,
       "genre":[
-         "Drama"
+         "Biography"
       ],
       "score_diff":0.1894736842
    },
@@ -17,11 +17,7 @@
       "votes":489775,
       "metascore":8.4,
       "genre":[
-         "Action",
-         "Crime",
-         "Drama",
-         "Sci-Fi",
-         "Thriller"
+         "Sci-Fi"
       ],
       "score_diff":0.119047619
    },
@@ -32,7 +28,6 @@
       "votes":244895,
       "metascore":9.5,
       "genre":[
-         "Drama",
          "Thriller"
       ],
       "score_diff":0.2210526316
@@ -44,9 +39,7 @@
       "votes":213713,
       "metascore":8.9,
       "genre":[
-         "Comedy",
-         "Drama",
-         "Romance"
+         "Comedy"
       ],
       "score_diff":0.1123595506
    },
@@ -57,7 +50,6 @@
       "votes":221046,
       "metascore":8.4,
       "genre":[
-         "Comedy",
          "Drama"
       ],
       "score_diff":0.130952381
@@ -69,8 +61,7 @@
       "votes":153796,
       "metascore":8.5,
       "genre":[
-         "Drama",
-         "Fantasy"
+         "Drama"
       ],
       "score_diff":0.2
    },
@@ -81,9 +72,7 @@
       "votes":224228,
       "metascore":6.8,
       "genre":[
-         "Action",
-         "Adventure",
-         "Drama"
+         "Action/Adventure"
       ],
       "score_diff":0.1470588235
    },
@@ -94,9 +83,7 @@
       "votes":319329,
       "metascore":8.7,
       "genre":[
-         "Biography",
-         "Drama",
-         "Sport"
+         "Biography"
       ],
       "score_diff":0.1264367816
    },
@@ -107,10 +94,7 @@
       "votes":206775,
       "metascore":5.8,
       "genre":[
-         "Adventure",
-         "Drama",
-         "Fantasy",
-         "Romance"
+         "Fantasy"
       ],
       "score_diff":0.1379310345
    },
@@ -121,8 +105,6 @@
       "votes":226251,
       "metascore":8.1,
       "genre":[
-         "Action",
-         "Comedy",
          "Sci-Fi"
       ],
       "score_diff":0.1358024691
@@ -145,10 +127,7 @@
       "votes":224429,
       "metascore":8.6,
       "genre":[
-         "Biography",
-         "Drama",
-         "History",
-         "War"
+         "Biography"
       ],
       "score_diff":0.1395348837
    },
@@ -159,9 +138,7 @@
       "votes":523740,
       "metascore":8.6,
       "genre":[
-         "Biography",
-         "Drama",
-         "Thriller"
+         "Drama"
       ],
       "score_diff":0.1046511628
    },
@@ -172,11 +149,7 @@
       "votes":165358,
       "metascore":8.8,
       "genre":[
-         "Action",
-         "Crime",
-         "Drama",
-         "Thriller",
-         "Western"
+         "Thriller"
       ],
       "score_diff":0.1363636364
    },
@@ -187,8 +160,7 @@
       "votes":174268,
       "metascore":8.3,
       "genre":[
-         "Horror",
-         "Mystery"
+         "Horror"
       ],
       "score_diff":0.1807228916
    },
@@ -199,10 +171,7 @@
       "votes":751452,
       "metascore":9.0,
       "genre":[
-         "Action",
-         "Adventure",
-         "Sci-Fi",
-         "Thriller"
+         "Action/Adventure"
       ],
       "score_diff":0.1
    },
@@ -213,10 +182,6 @@
       "votes":338895,
       "metascore":8.6,
       "genre":[
-         "Action",
-         "Crime",
-         "Drama",
-         "Music",
          "Thriller"
       ],
       "score_diff":0.1162790698
@@ -228,7 +193,6 @@
       "votes":158809,
       "metascore":9.4,
       "genre":[
-         "Comedy",
          "Drama"
       ],
       "score_diff":0.2021276596
@@ -240,11 +204,7 @@
       "votes":436118,
       "metascore":9.4,
       "genre":[
-         "Action",
-         "Drama",
-         "History",
-         "Thriller",
-         "War"
+         "Action/Adventure"
       ],
       "score_diff":0.1595744681
    },
@@ -255,7 +215,6 @@
       "votes":500414,
       "metascore":8.8,
       "genre":[
-         "Comedy",
          "Drama"
       ],
       "score_diff":0.125
@@ -267,10 +226,7 @@
       "votes":179908,
       "metascore":6.0,
       "genre":[
-         "Action",
-         "Comedy",
-         "Fantasy",
-         "Sci-Fi"
+         "Comedy"
       ],
       "score_diff":0.1166666667
    },
@@ -281,9 +237,6 @@
       "votes":433724,
       "metascore":8.5,
       "genre":[
-         "Action",
-         "Adventure",
-         "Fantasy",
          "Sci-Fi"
       ],
       "score_diff":0.1529411765
@@ -295,12 +248,7 @@
       "votes":191071,
       "metascore":7.9,
       "genre":[
-         "Adventure",
-         "Drama",
-         "Horror",
-         "Mystery",
-         "Sci-Fi",
-         "Thriller"
+         "Horror"
       ],
       "score_diff":0.1265822785
    },
@@ -322,9 +270,7 @@
       "votes":559370,
       "metascore":9.6,
       "genre":[
-         "Biography",
-         "Drama",
-         "History"
+         "Drama"
       ],
       "score_diff":0.15625
    },
@@ -335,11 +281,7 @@
       "votes":273661,
       "metascore":8.7,
       "genre":[
-         "Adventure",
-         "Drama",
-         "Fantasy",
-         "Romance",
-         "Thriller"
+         "Romance"
       ],
       "score_diff":0.1494252874
    },
@@ -350,9 +292,7 @@
       "votes":430712,
       "metascore":8.8,
       "genre":[
-         "Action",
-         "Adventure",
-         "Sci-Fi"
+         "Action/Adventure"
       ],
       "score_diff":0.1590909091
    },
@@ -363,9 +303,7 @@
       "votes":347023,
       "metascore":9.3,
       "genre":[
-         "Crime",
-         "Drama",
-         "History"
+         "Drama"
       ],
       "score_diff":0.1290322581
    },
@@ -376,7 +314,6 @@
       "votes":409228,
       "metascore":9.0,
       "genre":[
-         "Crime",
          "Drama"
       ],
       "score_diff":0.1888888889
@@ -388,12 +325,7 @@
       "votes":512324,
       "metascore":9.4,
       "genre":[
-         "Animation",
-         "Adventure",
-         "Comedy",
-         "Drama",
-         "Family",
-         "Fantasy"
+         "Action/Adventure"
       ],
       "score_diff":0.1276595745
    },
@@ -404,9 +336,7 @@
       "votes":448936,
       "metascore":9.0,
       "genre":[
-         "Drama",
-         "Romance",
-         "Sci-Fi"
+         "Romance"
       ],
       "score_diff":0.1111111111
    },
@@ -417,9 +347,7 @@
       "votes":687570,
       "metascore":9.6,
       "genre":[
-         "Drama",
-         "Sci-Fi",
-         "Thriller"
+         "Sci-Fi"
       ],
       "score_diff":0.1979166667
    },
@@ -430,10 +358,6 @@
       "votes":409656,
       "metascore":9.3,
       "genre":[
-         "Comedy",
-         "Drama",
-         "Music",
-         "Musical",
          "Romance"
       ],
       "score_diff":0.1397849462
@@ -445,9 +369,7 @@
       "votes":271878,
       "metascore":4.6,
       "genre":[
-         "Drama",
-         "Romance",
-         "Thriller"
+         "Romance"
       ],
       "score_diff":0.1086956522
    },
