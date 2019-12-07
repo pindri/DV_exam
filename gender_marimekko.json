@@ -1,1 +1,1 @@
-[{"dir_gen":"female","count":2620,"act_male_perc":0.5722733246,"pro_male_perc":0.5126582278},{"dir_gen":"male","count":22206,"act_male_perc":0.6633953132,"pro_male_perc":0.6651903681}]
+[{"dir_gen":"female","n_movies":2620,"n_actors":34298,"n_pro":7699,"act_male_perc":0.5722733246,"pro_male_perc":0.5126582278},{"dir_gen":"male","n_movies":22206,"n_actors":294704,"n_pro":65934,"act_male_perc":0.6633953132,"pro_male_perc":0.6651903681}]
