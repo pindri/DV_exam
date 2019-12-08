@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="317.13058mm"
-   height="215.06845mm"
-   viewBox="0 0 317.13058 215.06845"
+   width="398.24329mm"
+   height="224.01186mm"
+   viewBox="0 0 398.24329 224.01186"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -426,8 +426,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="539.39368"
-     inkscape:cy="303.23081"
+     inkscape:cx="830.86218"
+     inkscape:cy="396.93384"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -438,7 +438,7 @@
      inkscape:window-maximized="0"
      showguides="false">
     <sodipodi:guide
-       position="182.58544,200.83899"
+       position="184.4095,200.02689"
        orientation="0,1"
        id="guide1287"
        inkscape:locked="false" />
@@ -451,7 +451,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -459,14 +459,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(16.472249,-2.1962428)">
+     transform="translate(18.296314,7.5592661)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1283"
-       width="317.13058"
-       height="215.06845"
-       x="-15.1359"
-       y="2.1962433" />
+       width="398.24329"
+       height="224.01186"
+       x="-18.296314"
+       y="-7.5592661" />
     <path
        d="M 24.249902,181.71307 H 177.6659 V 28.297074 H 24.249902 Z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
@@ -514,14 +514,14 @@
        inkscape:connector-curvature="0" />
     <text
        id="text932"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="91.986084"
-       y="195.32797">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="89.743126"
+       y="202.20705">
       <tspan
          sodipodi:role="line"
-         id="tspan9342"
-         x="91.986084"
-         y="195.32797">Movies</tspan>
+         id="tspan1465"
+         x="89.743126"
+         y="202.20705">Movies</tspan>
     </text>
     <path
        inkscape:connector-curvature="0"
@@ -530,13 +530,13 @@
        d="M 24.249902,181.71307 H 23.01518" />
     <text
        id="text940"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="12.142459"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="10.160069"
        y="183.05252">
       <tspan
          sodipodi:role="line"
          id="tspan5635"
-         x="12.142459"
+         x="10.160069"
          y="183.05252">0%</tspan>
     </text>
     <path
@@ -546,13 +546,13 @@
        d="M 24.249902,143.35907 H 23.01518" />
     <text
        id="text952"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="8.5512934"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="6.2371807"
        y="145.22769">
       <tspan
          sodipodi:role="line"
          id="tspan5633"
-         x="8.5512934"
+         x="6.2371807"
          y="145.22769">25%</tspan>
     </text>
     <path
@@ -562,13 +562,13 @@
        d="M 24.249902,105.00507 H 23.01518" />
     <text
        id="text964"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="8.5512934"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="6.2371807"
        y="106.8737">
       <tspan
          sodipodi:role="line"
          id="tspan5631"
-         x="8.5512934"
+         x="6.2371807"
          y="106.8737">50%</tspan>
     </text>
     <path
@@ -578,24 +578,24 @@
        d="M 24.249902,79.937619 H 23.01518" />
     <text
        id="text976"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="8.5512934"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="6.2371807"
        y="81.806236">
       <tspan
          sodipodi:role="line"
          id="tspan5629"
-         x="8.5512934"
+         x="6.2371807"
          y="81.806236">66%</tspan>
     </text>
     <text
        id="text992"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="180.13535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="180.66451"
        y="95.785805">
       <tspan
          sodipodi:role="line"
-         id="tspan9346"
-         x="180.13535"
+         id="tspan1467"
+         x="180.66451"
          y="95.785805">57%</tspan>
     </text>
     <path
@@ -605,13 +605,13 @@
        d="M 24.249902,66.651073 H 23.01518" />
     <text
        id="text1000"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="8.5512934"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="6.2371807"
        y="68.519691">
       <tspan
          sodipodi:role="line"
          id="tspan5627"
-         x="8.5512934"
+         x="6.2371807"
          y="68.519691">75%</tspan>
     </text>
     <path
@@ -621,64 +621,68 @@
        d="M 24.249902,28.297074 H 23.01518" />
     <text
        id="text1012"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="4.9601259"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="2.3142924"
        y="30.165697">
       <tspan
          sodipodi:role="line"
          id="tspan5625"
-         x="4.9601259"
+         x="2.3142924"
          y="30.165697">100%</tspan>
     </text>
     <text
        id="text1020"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
        transform="rotate(-90)"
-       x="-110.59991"
-       y="2.1461697">
+       x="-114.88635"
+       y="-2.1080587">
       <tspan
          sodipodi:role="line"
          id="tspan9340"
-         x="-110.59991"
-         y="2.1461697">Actors</tspan>
+         x="-114.88635"
+         y="-2.1080587">Actors</tspan>
     </text>
     <g
        id="g1022"
        transform="matrix(0.35277777,0,0,-0.35277777,-3.1820975,207.11307)"
-       style="stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke:#fafafa;stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
          id="g1024"
          clip-path="url(#clipPath1028)"
-         style="stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke:#fafafa;stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <path
            d="M 466.74515,72 V 506.88"
-           style="fill:none;stroke:#ffffff;stroke-width:2.26771665;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#fafafa;stroke-width:2.26771665;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path1030"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g1032"
-       transform="matrix(0.35277777,0,0,-0.35277777,-3.1820975,207.11307)">
+       transform="matrix(0.35277777,0,0,-0.35277777,-3.1820975,207.11307)"
+       style="stroke:#fafafa;stroke-opacity:1">
       <g
          id="g1034"
-         clip-path="url(#clipPath1038)">
+         clip-path="url(#clipPath1038)"
+         style="stroke:#fafafa;stroke-opacity:1">
         <path
            d="M 77.76,360.49735 H 466.74515"
-           style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#fafafa;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="path1040"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g1042"
-       transform="matrix(0.35277777,0,0,-0.35277777,-3.1820975,207.11307)">
+       transform="matrix(0.35277777,0,0,-0.35277777,-3.1820975,207.11307)"
+       style="stroke:#fafafa;stroke-opacity:1">
       <g
          id="g1044"
-         clip-path="url(#clipPath1048)">
+         clip-path="url(#clipPath1048)"
+         style="stroke:#fafafa;stroke-opacity:1">
         <path
            d="M 466.74515,320.87022 H 512.64"
-           style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#fafafa;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="path1050"
            inkscape:connector-curvature="0" />
       </g>
@@ -687,7 +691,7 @@
        inkscape:connector-curvature="0"
        id="path1054"
        style="fill:none;stroke:#4d4d4d;stroke-width:0.382;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       d="M 24.249902,181.71307 V 28.297074" />
+       d="M 24.249904,181.71307 V 28.297072" />
     <path
        inkscape:connector-curvature="0"
        id="path1058"
@@ -695,14 +699,14 @@
        d="M 24.249902,181.71307 H 177.6659" />
     <text
        id="text1064"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="145.4464"
-       y="209.61404">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="214.79012"
+       y="201.13884">
       <tspan
          sodipodi:role="line"
          id="tspan9344"
-         x="145.4464"
-         y="209.61404">Data source: https://github.com/dojutsu-user/IMDB-Scraper</tspan>
+         x="214.79012"
+         y="201.13884">Data source: https://github.com/dojutsu-user/IMDB-Scraper</tspan>
     </text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.26418519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -762,81 +766,114 @@
          y="19.857351">Female dir. - 11%</tspan>
     </text>
     <g
-       id="g1405"
-       transform="translate(3.7041668)">
+       id="g1463"
+       transform="translate(20.379136,8.1509796)">
       <g
-         transform="translate(-29.482143,111.125)"
-         id="g1332">
-        <rect
-           style="opacity:1;fill:#ffe7ee;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1295"
-           width="11.22532"
-           height="11.22532"
-           x="220.69147"
-           y="27.87738" />
-        <rect
-           style="opacity:1;fill:#ffcedd;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1295-8"
-           width="11.22532"
-           height="11.22532"
-           x="231.91679"
-           y="27.87738" />
-      </g>
-      <text
-         id="text1012-5-6-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-         x="216.38406"
-         y="146.60753">
-        <tspan
-           id="tspan1356"
+         transform="translate(3.7041668)"
+         id="g1405">
+        <g
+           id="g1332"
+           transform="translate(-29.482143,111.125)">
+          <rect
+             y="27.87738"
+             x="220.69147"
+             height="11.22532"
+             width="11.22532"
+             id="rect1295"
+             style="opacity:1;fill:#ffe7ee;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="27.87738"
+             x="231.91679"
+             height="11.22532"
+             width="11.22532"
+             id="rect1295-8"
+             style="opacity:1;fill:#ffcedd;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <text
            y="146.60753"
            x="216.38406"
-           sodipodi:role="line"
-           style="stroke-width:0.35277778">Female actors</tspan>
-      </text>
-    </g>
-    <g
-       id="g1412"
-       transform="translate(3.7041668)">
-      <g
-         transform="translate(-31.753948,107.42083)"
-         id="g1336">
-        <rect
-           style="opacity:1;fill:#deebff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1295-0"
-           width="11.22532"
-           height="11.22532"
-           x="222.96327"
-           y="45.249897" />
-        <rect
-           style="opacity:1;fill:#bcd8ff;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1295-8-4"
-           width="11.22532"
-           height="11.22532"
-           x="234.1886"
-           y="45.249897" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+           id="text1012-5-6-1">
+          <tspan
+             style="stroke-width:0.35277778"
+             sodipodi:role="line"
+             x="216.38406"
+             y="146.60753"
+             id="tspan1356">Female actors</tspan>
+        </text>
       </g>
-      <text
-         id="text1012-5-6-1-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-         x="216.46873"
-         y="160.27588">
-        <tspan
-           id="tspan1356-2"
+      <g
+         transform="translate(3.7041668)"
+         id="g1412">
+        <g
+           id="g1336"
+           transform="translate(-31.753948,107.42083)">
+          <rect
+             y="45.249897"
+             x="222.96327"
+             height="11.22532"
+             width="11.22532"
+             id="rect1295-0"
+             style="opacity:1;fill:#deebff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="45.249897"
+             x="234.1886"
+             height="11.22532"
+             width="11.22532"
+             id="rect1295-8-4"
+             style="opacity:1;fill:#bcd8ff;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <text
            y="160.27588"
            x="216.46873"
-           sodipodi:role="line"
-           style="stroke-width:0.35277778">Male actors</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+           id="text1012-5-6-1-6">
+          <tspan
+             style="stroke-width:0.35277778"
+             sodipodi:role="line"
+             x="216.46873"
+             y="160.27588"
+             id="tspan1356-2">Male actors</tspan>
+        </text>
+      </g>
+      <text
+         id="text1012-5-6-1-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         x="194.60864"
+         y="172.48541">
+        <tspan
+           y="172.48541"
+           x="194.60864"
+           id="tspan1414"
+           sodipodi:role="line">Darker shades highlight protagonist roles</tspan>
       </text>
     </g>
     <text
-       y="172.48541"
-       x="194.60864"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888889px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778;"
-       id="text1012-5-6-1-6-4">
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.49470615px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.38737068"
+       x="215.02907"
+       y="39.592716"
+       id="text1243"><tspan
+         sodipodi:role="line"
+         id="tspan1241"
+         x="215.02907"
+         y="39.592716"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.49470615px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke-width:0.38737068">Are women directors</tspan><tspan
+         sodipodi:role="line"
+         x="215.02907"
+         y="58.961098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.49470615px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke-width:0.38737068"
+         id="tspan1245">more egalitarian?</tspan></text>
+    <text
+       id="text1012-5-6-1-6-4-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="214.85292"
+       y="72.48632">
       <tspan
          sodipodi:role="line"
-         id="tspan1414">Darker shades highlight protagonist roles</tspan>
+         id="tspan1495"
+         x="214.85292"
+         y="72.48632">Based on IMDB data, 2000-2018</tspan>
     </text>
   </g>
 </svg>
