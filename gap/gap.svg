@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="205.96843mm"
-   height="132.28903mm"
-   viewBox="0 0 205.96842 132.28904"
+   width="228.59625mm"
+   height="141.26447mm"
+   viewBox="0 0 228.59624 141.26447"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="gap.svg"
-   inkscape:export-filename="/home/wwilson/DSSC/second_year/first_semester/IRDV/DV/DV_exam/gap/gap.svg.png"
+   inkscape:export-filename="/home/wwilson/DSSC/second_year/first_semester/IRDV/DV/DV_exam/gap/gap.png"
    inkscape:export-xdpi="250.2"
    inkscape:export-ydpi="250.2">
   <defs
@@ -608,23 +608,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="353.97939"
-     inkscape:cy="252.21736"
+     inkscape:zoom="2.8"
+     inkscape:cx="457.21357"
+     inkscape:cy="211.86925"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1858"
+     inkscape:window-height="993"
+     inkscape:window-x="29"
+     inkscape:window-y="54"
      inkscape:window-maximized="0"
      showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid2789"
-       originx="5.861565"
-       originy="-172.76522" />
+       originx="17.175467"
+       originy="-168.2775" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -634,7 +634,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -642,7 +642,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(5.8615659,8.0541517)">
+     transform="translate(17.17547,12.541868)">
     <g
        id="g846"
        transform="matrix(0.17638888,0,0,0.17638888,9.2905819,6.8759074)">
@@ -658,8 +658,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path866"
-       style="fill:#383838;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1420677"
-       d="M -5.8615659,-8.0541517 H 200.10687 V 124.23488 H -5.8615659 Z" />
+       style="fill:#2e2e2e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.15466213"
+       d="M -17.17547,-12.541868 H 211.42078 V 128.7226 H -17.17547 Z" />
     <g
        transform="matrix(0.12300093,0,0,0.12300093,16.301635,107.36767)"
        id="g882" />
@@ -1269,24 +1269,24 @@
     <text
        id="text1440"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fdb462;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12300093"
-       x="146.84575"
-       y="75.209587">
+       x="145.9953"
+       y="74.926102">
       <tspan
          sodipodi:role="line"
          id="tspan4447"
-         x="146.84575"
-         y="75.209587">The Last Jedi</tspan>
+         x="145.9953"
+         y="74.926102">The Last Jedi</tspan>
     </text>
     <text
        id="text1446"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fdb462;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12300093"
-       x="56.895279"
-       y="96.298065">
+       x="55.383373"
+       y="91.573364">
       <tspan
          sodipodi:role="line"
          id="tspan4379"
-         x="56.895279"
-         y="96.298065">Looper</tspan>
+         x="55.383373"
+         y="91.573364">Looper</tspan>
     </text>
     <text
        id="text1452"
