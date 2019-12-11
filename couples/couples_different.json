@@ -1,1 +1,331 @@
-[{"director":"Garry Marshall","actor":"Hector Elizondo","number_of_films":8,"metascore_mean":46.875,"couples":"Garry Marshall, Hector Elizondo"},{"director":"Blake Edwards","actor":"Graham Stark","number_of_films":8,"metascore_mean":54.5,"couples":"Blake Edwards, Graham Stark"},{"director":"Wes Anderson","actor":"Bill Murray","number_of_films":8,"metascore_mean":78.5,"couples":"Wes Anderson, Bill Murray"},{"director":"Dennis Dugan","actor":"Adam Sandler","number_of_films":8,"metascore_mean":33.5,"couples":"Dennis Dugan, Adam Sandler"},{"director":"Tim Burton","actor":"Johnny Depp","number_of_films":8,"metascore_mean":69.375,"couples":"Tim Burton, Johnny Depp"},{"director":"Martin Scorsese","actor":"Robert De Niro","number_of_films":8,"metascore_mean":81.125,"couples":"Martin Scorsese, Robert De Niro"},{"director":"Robert Rodriguez","actor":"Danny Trejo","number_of_films":7,"metascore_mean":56.7142857143,"couples":"Robert Rodriguez, Danny Trejo"},{"director":"Sam Raimi","actor":"Ted Raimi","number_of_films":7,"metascore_mean":64.0,"couples":"Sam Raimi, Ted Raimi"},{"director":"Richard Donner","actor":"Mel Gibson","number_of_films":6,"metascore_mean":54.3333333333,"couples":"Richard Donner, Mel Gibson"},{"director":"Richard Linklater","actor":"Ethan Hawke","number_of_films":6,"metascore_mean":81.5,"couples":"Richard Linklater, Ethan Hawke"},{"director":"Kevin Smith","actor":"Ben Affleck","number_of_films":6,"metascore_mean":55.5,"couples":"Kevin Smith, Ben Affleck"},{"director":"Ron Howard","actor":"Clint Howard","number_of_films":6,"metascore_mean":57.8333333333,"couples":"Ron Howard, Clint Howard"},{"director":"David Mamet","actor":"Ricky Jay","number_of_films":6,"metascore_mean":71.5,"couples":"David Mamet, Ricky Jay"},{"director":"Steven Soderbergh","actor":"George Clooney","number_of_films":6,"metascore_mean":65.5,"couples":"Steven Soderbergh, George Clooney"},{"director":"John Carpenter","actor":"Peter Jason","number_of_films":6,"metascore_mean":47.8333333333,"couples":"John Carpenter, Peter Jason"},{"director":"Darren Aronofsky","actor":"Mark Margolis","number_of_films":6,"metascore_mean":69.8333333333,"couples":"Darren Aronofsky, Mark Margolis"},{"director":"Christopher Nolan","actor":"Michael Caine","number_of_films":6,"metascore_mean":74.3333333333,"couples":"Christopher Nolan, Michael Caine"},{"director":"Jason Reitman","actor":"J.K. Simmons","number_of_films":5,"metascore_mean":69.4,"couples":"Jason Reitman, J.K. Simmons"},{"director":"Tommy Chong","actor":"Cheech Marin","number_of_films":5,"metascore_mean":43.2,"couples":"Tommy Chong, Cheech Marin"},{"director":"Peter Farrelly","actor":"Rob Moran","number_of_films":5,"metascore_mean":45.2,"couples":"Peter Farrelly, Rob Moran"},{"director":"Henry Jaglom","actor":"Zack Norman","number_of_films":5,"metascore_mean":45.2,"couples":"Henry Jaglom, Zack Norman"},{"director":"Lawrence Kasdan","actor":"Kevin Kline","number_of_films":5,"metascore_mean":56.8,"couples":"Lawrence Kasdan, Kevin Kline"},{"director":"Neil Jordan","actor":"Stephen Rea","number_of_films":5,"metascore_mean":67.8,"couples":"Neil Jordan, Stephen Rea"},{"director":"Paul W.S. Anderson","actor":"Milla Jovovich","number_of_films":5,"metascore_mean":38.6,"couples":"Paul W.S. Anderson, Milla Jovovich"},{"director":"Paul Schrader","actor":"Willem Dafoe","number_of_films":5,"metascore_mean":59.6,"couples":"Paul Schrader, Willem Dafoe"},{"director":"Alex Ross Perry","actor":"Kate Lyn Sheil","number_of_films":5,"metascore_mean":61.8,"couples":"Alex Ross Perry, Kate Lyn Sheil"},{"director":"Hal Needham","actor":"Burt Reynolds","number_of_films":5,"metascore_mean":38.2,"couples":"Hal Needham, Burt Reynolds"},{"director":"Nicole Holofcener","actor":"Catherine Keener","number_of_films":5,"metascore_mean":73.2,"couples":"Nicole Holofcener, Catherine Keener"},{"director":"Rob Zombie","actor":"Sheri Moon Zombie","number_of_films":5,"metascore_mean":45.4,"couples":"Rob Zombie, Sheri Moon Zombie"},{"director":"Jason Friedberg","actor":"Crista Flanagan","number_of_films":5,"metascore_mean":15.2,"couples":"Jason Friedberg, Crista Flanagan"},{"director":"David Wain","actor":"Paul Rudd","number_of_films":5,"metascore_mean":53.2,"couples":"David Wain, Paul Rudd"},{"director":"Aaron Seltzer","actor":"Crista Flanagan","number_of_films":5,"metascore_mean":15.2,"couples":"Aaron Seltzer, Crista Flanagan"},{"director":"James Wan","actor":"Patrick Wilson","number_of_films":5,"metascore_mean":56.0,"couples":"James Wan, Patrick Wilson"},{"director":"Joel Coen","actor":"Frances McDormand","number_of_films":5,"metascore_mean":71.4,"couples":"Joel Coen, Frances McDormand"},{"director":"Frank Coraci","actor":"Adam Sandler","number_of_films":5,"metascore_mean":38.8,"couples":"Frank Coraci, Adam Sandler"},{"director":"Adam McKay","actor":"Will Ferrell","number_of_films":5,"metascore_mean":61.0,"couples":"Adam McKay, Will Ferrell"},{"director":"John R. Cherry III","actor":"Jim Varney","number_of_films":5,"metascore_mean":34.8,"couples":"John R. Cherry III, Jim Varney"},{"director":"Steven Spielberg","actor":"Tom Hanks","number_of_films":5,"metascore_mean":76.8,"couples":"Steven Spielberg, Tom Hanks"},{"director":"Ridley Scott","actor":"Russell Crowe","number_of_films":5,"metascore_mean":60.0,"couples":"Ridley Scott, Russell Crowe"},{"director":"Ron Shelton","actor":"Lolita Davidovich","number_of_films":5,"metascore_mean":53.8,"couples":"Ron Shelton, Lolita Davidovich"},{"director":"Justin Lin","actor":"Sung Kang","number_of_films":5,"metascore_mean":57.2,"couples":"Justin Lin, Sung Kang"},{"director":"Tony Scott","actor":"Denzel Washington","number_of_films":5,"metascore_mean":59.2,"couples":"Tony Scott, Denzel Washington"},{"director":"Gore Verbinski","actor":"Johnny Depp","number_of_films":5,"metascore_mean":55.6,"couples":"Gore Verbinski, Johnny Depp"},{"director":"John Waters","actor":"Mink Stole","number_of_films":5,"metascore_mean":64.0,"couples":"John Waters, Mink Stole"},{"director":"Joe Dante","actor":"Dick Miller","number_of_films":5,"metascore_mean":58.4,"couples":"Joe Dante, Dick Miller"},{"director":"Bobby Farrelly","actor":"Rob Moran","number_of_films":5,"metascore_mean":45.2,"couples":"Bobby Farrelly, Rob Moran"},{"director":"Ethan Coen","actor":"Frances McDormand","number_of_films":5,"metascore_mean":71.4,"couples":"Ethan Coen, Frances McDormand"}]
+[
+  {
+    "director": "Garry Marshall",
+    "actor": "Hector Elizondo",
+    "number_of_films": 8,
+    "metascore_mean": 46.875,
+    "couples": "G. Marshall, H. Elizondo"
+  },
+  {
+    "director": "Blake Edwards",
+    "actor": "Graham Stark",
+    "number_of_films": 8,
+    "metascore_mean": 54.5,
+    "couples": "B. Edwards, G. Stark"
+  },
+  {
+    "director": "Wes Anderson",
+    "actor": "Bill Murray",
+    "number_of_films": 8,
+    "metascore_mean": 78.5,
+    "couples": "W. Anderson, B. Murray"
+  },
+  {
+    "director": "Dennis Dugan",
+    "actor": "Adam Sandler",
+    "number_of_films": 8,
+    "metascore_mean": 33.5,
+    "couples": "D. Dugan, A. Sandler"
+  },
+  {
+    "director": "Tim Burton",
+    "actor": "Johnny Depp",
+    "number_of_films": 8,
+    "metascore_mean": 69.375,
+    "couples": "T. Burton, J. Depp"
+  },
+  {
+    "director": "Martin Scorsese",
+    "actor": "Robert De Niro",
+    "number_of_films": 8,
+    "metascore_mean": 81.125,
+    "couples": "M. Scorsese, R. De Niro"
+  },
+  {
+    "director": "Robert Rodriguez",
+    "actor": "Danny Trejo",
+    "number_of_films": 7,
+    "metascore_mean": 56.7142857143,
+    "couples": "R. Rodriguez, D. Trejo"
+  },
+  {
+    "director": "Sam Raimi",
+    "actor": "Ted Raimi",
+    "number_of_films": 7,
+    "metascore_mean": 64,
+    "couples": "S. Raimi, T. Raimi"
+  },
+  {
+    "director": "Richard Donner",
+    "actor": "Mel Gibson",
+    "number_of_films": 6,
+    "metascore_mean": 54.3333333333,
+    "couples": "R. Donner, M. Gibson"
+  },
+  {
+    "director": "Richard Linklater",
+    "actor": "Ethan Hawke",
+    "number_of_films": 6,
+    "metascore_mean": 81.5,
+    "couples": "R. Linklater, E. Hawke"
+  },
+  {
+    "director": "Kevin Smith",
+    "actor": "Ben Affleck",
+    "number_of_films": 6,
+    "metascore_mean": 55.5,
+    "couples": "K. Smith, B. Affleck"
+  },
+  {
+    "director": "Ron Howard",
+    "actor": "Clint Howard",
+    "number_of_films": 6,
+    "metascore_mean": 57.8333333333,
+    "couples": "R. Howard, C. Howard"
+  },
+  {
+    "director": "David Mamet",
+    "actor": "Ricky Jay",
+    "number_of_films": 6,
+    "metascore_mean": 71.5,
+    "couples": "D. Mamet, R. Jay"
+  },
+  {
+    "director": "Steven Soderbergh",
+    "actor": "George Clooney",
+    "number_of_films": 6,
+    "metascore_mean": 65.5,
+    "couples": "S. Soderbergh, G. Clooney"
+  },
+  {
+    "director": "John Carpenter",
+    "actor": "Peter Jason",
+    "number_of_films": 6,
+    "metascore_mean": 47.8333333333,
+    "couples": "J. Carpenter, P. Jason"
+  },
+  {
+    "director": "Darren Aronofsky",
+    "actor": "Mark Margolis",
+    "number_of_films": 6,
+    "metascore_mean": 69.8333333333,
+    "couples": "D. Aronofsky, M. Margolis"
+  },
+  {
+    "director": "Christopher Nolan",
+    "actor": "Michael Caine",
+    "number_of_films": 6,
+    "metascore_mean": 74.3333333333,
+    "couples": "C. Nolan, M. Caine"
+  },
+  {
+    "director": "Jason Reitman",
+    "actor": "J.K. Simmons",
+    "number_of_films": 5,
+    "metascore_mean": 69.4,
+    "couples": "J. Reitman, J.K. Simmons"
+  },
+  {
+    "director": "Tommy Chong",
+    "actor": "Cheech Marin",
+    "number_of_films": 5,
+    "metascore_mean": 43.2,
+    "couples": "T. Chong, C. Marin"
+  },
+  {
+    "director": "Peter Farrelly",
+    "actor": "Rob Moran",
+    "number_of_films": 5,
+    "metascore_mean": 45.2,
+    "couples": "P. Farrelly, R. Moran"
+  },
+  {
+    "director": "Henry Jaglom",
+    "actor": "Zack Norman",
+    "number_of_films": 5,
+    "metascore_mean": 45.2,
+    "couples": "H. Jaglom, Z. Norman"
+  },
+  {
+    "director": "Lawrence Kasdan",
+    "actor": "Kevin Kline",
+    "number_of_films": 5,
+    "metascore_mean": 56.8,
+    "couples": "L. Kasdan, K. Kline"
+  },
+  {
+    "director": "Neil Jordan",
+    "actor": "Stephen Rea",
+    "number_of_films": 5,
+    "metascore_mean": 67.8,
+    "couples": "N. Jordan, S. Rea"
+  },
+  {
+    "director": "Paul W.S. Anderson",
+    "actor": "Milla Jovovich",
+    "number_of_films": 5,
+    "metascore_mean": 38.6,
+    "couples": "P. W.S. Anderson, M. Jovovich"
+  },
+  {
+    "director": "Paul Schrader",
+    "actor": "Willem Dafoe",
+    "number_of_films": 5,
+    "metascore_mean": 59.6,
+    "couples": "P. Schrader, W. Dafoe"
+  },
+  {
+    "director": "Alex Ross Perry",
+    "actor": "Kate Lyn Sheil",
+    "number_of_films": 5,
+    "metascore_mean": 61.8,
+    "couples": "A.R. Perry, K.L. Sheil"
+  },
+  {
+    "director": "Hal Needham",
+    "actor": "Burt Reynolds",
+    "number_of_films": 5,
+    "metascore_mean": 38.2,
+    "couples": "H. Needham, B. Reynolds"
+  },
+  {
+    "director": "Nicole Holofcener",
+    "actor": "Catherine Keener",
+    "number_of_films": 5,
+    "metascore_mean": 73.2,
+    "couples": "N. Holofcener, C. Keener"
+  },
+  {
+    "director": "Rob Zombie",
+    "actor": "Sheri Moon Zombie",
+    "number_of_films": 5,
+    "metascore_mean": 45.4,
+    "couples": "R. Zombie, S. M. Zombie"
+  },
+  {
+    "director": "Jason Friedberg",
+    "actor": "Crista Flanagan",
+    "number_of_films": 5,
+    "metascore_mean": 15.2,
+    "couples": "J. Friedberg, C. Flanagan"
+  },
+  {
+    "director": "David Wain",
+    "actor": "Paul Rudd",
+    "number_of_films": 5,
+    "metascore_mean": 53.2,
+    "couples": "D. Wain, P. Rudd"
+  },
+  {
+    "director": "Aaron Seltzer",
+    "actor": "Crista Flanagan",
+    "number_of_films": 5,
+    "metascore_mean": 15.2,
+    "couples": "A. Seltzer, C. Flanagan"
+  },
+  {
+    "director": "James Wan",
+    "actor": "Patrick Wilson",
+    "number_of_films": 5,
+    "metascore_mean": 56,
+    "couples": "J. Wan, P. Wilson"
+  },
+  {
+    "director": "Joel Coen",
+    "actor": "Frances McDormand",
+    "number_of_films": 5,
+    "metascore_mean": 71.4,
+    "couples": "J. Coen, F. McDormand"
+  },
+  {
+    "director": "Frank Coraci",
+    "actor": "Adam Sandler",
+    "number_of_films": 5,
+    "metascore_mean": 38.8,
+    "couples": "F. Coraci, A. Sandler"
+  },
+  {
+    "director": "Adam McKay",
+    "actor": "Will Ferrell",
+    "number_of_films": 5,
+    "metascore_mean": 61,
+    "couples": "A. McKay, W. Ferrell"
+  },
+  {
+    "director": "John R. Cherry III",
+    "actor": "Jim Varney",
+    "number_of_films": 5,
+    "metascore_mean": 34.8,
+    "couples": "J. R. Cherry III, J. Varney"
+  },
+  {
+    "director": "Steven Spielberg",
+    "actor": "Tom Hanks",
+    "number_of_films": 5,
+    "metascore_mean": 76.8,
+    "couples": "S. Spielberg, T. Hanks"
+  },
+  {
+    "director": "Ridley Scott",
+    "actor": "Russell Crowe",
+    "number_of_films": 5,
+    "metascore_mean": 60,
+    "couples": "R. Scott, R. Crowe"
+  },
+  {
+    "director": "Ron Shelton",
+    "actor": "Lolita Davidovich",
+    "number_of_films": 5,
+    "metascore_mean": 53.8,
+    "couples": "R. Shelton, L. Davidovich"
+  },
+  {
+    "director": "Justin Lin",
+    "actor": "Sung Kang",
+    "number_of_films": 5,
+    "metascore_mean": 57.2,
+    "couples": "J. Lin, S. Kang"
+  },
+  {
+    "director": "Tony Scott",
+    "actor": "Denzel Washington",
+    "number_of_films": 5,
+    "metascore_mean": 59.2,
+    "couples": "T. Scott, D. Washington"
+  },
+  {
+    "director": "Gore Verbinski",
+    "actor": "Johnny Depp",
+    "number_of_films": 5,
+    "metascore_mean": 55.6,
+    "couples": "G. Verbinski, J. Depp"
+  },
+  {
+    "director": "John Waters",
+    "actor": "Mink Stole",
+    "number_of_films": 5,
+    "metascore_mean": 64,
+    "couples": "J. Waters, M. Stole"
+  },
+  {
+    "director": "Joe Dante",
+    "actor": "Dick Miller",
+    "number_of_films": 5,
+    "metascore_mean": 58.4,
+    "couples": "J. Dante, D. Miller"
+  },
+  {
+    "director": "Bobby Farrelly",
+    "actor": "Rob Moran",
+    "number_of_films": 5,
+    "metascore_mean": 45.2,
+    "couples": "B. Farrelly, R. Moran"
+  },
+  {
+    "director": "Ethan Coen",
+    "actor": "Frances McDormand",
+    "number_of_films": 5,
+    "metascore_mean": 71.4,
+    "couples": "E. Coen, F. McDormand"
+  }
+]
