@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="228.59625mm"
-   height="141.26447mm"
-   viewBox="0 0 228.59624 141.26447"
+   width="250.87164mm"
+   height="141.11531mm"
+   viewBox="0 0 250.87163 141.11532"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -609,22 +609,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="490.22333"
-     inkscape:cy="278.53709"
+     inkscape:cx="343.44034"
+     inkscape:cy="278.25522"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="993"
-     inkscape:window-x="29"
-     inkscape:window-y="54"
+     inkscape:window-width="1916"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid2789"
-       originx="17.175467"
-       originy="-168.2775" />
+       originx="27.783997"
+       originy="-168.3521" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -634,7 +634,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -642,7 +642,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(17.17547,12.541868)">
+     transform="translate(27.784001,12.467284)">
     <g
        id="g846"
        transform="matrix(0.17638888,0,0,0.17638888,9.2905819,6.8759074)">
@@ -658,8 +658,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path866"
-       style="fill:#2e2e2e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16249029"
-       d="M -28.045895,-13.102047 H 222.2912 V 129.28278 H -28.045895 Z" />
+       style="fill:#2e2e2e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16193689"
+       d="M -27.784001,-12.467284 H 223.08764 V 128.64802 H -27.784001 Z" />
     <g
        transform="matrix(0.12300093,0,0,0.12300093,16.301635,107.36767)"
        id="g882" />
@@ -2118,7 +2118,6 @@
          y="1.7848253"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e7e7e7;fill-opacity:1"
    id="tspan5755">Loved</tspan>
-
  by critics,</tspan>
       <tspan
          sodipodi:role="line"
@@ -2127,7 +2126,6 @@
          id="tspan5753"><tspan
    style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e7e7e7;fill-opacity:1"
    id="tspan5757">not so much</tspan>
-
  by audiences</tspan>
     </text>
     <text
