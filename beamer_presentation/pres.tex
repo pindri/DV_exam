@@ -35,15 +35,39 @@
 
 
   \begin{frame}
-    \frametitle{First and last slide}
+    \frametitle{Topic and dataset introduction}
 
-    Things things things things.
+    \textbf{Topic:} Movies.
 
     \vspace{1em} 
 
+    \textbf{Dataset details:} 
+
+    \vspace{0.5em} 
+
     \begin{itemize}
-      \item Testo;
-      \item Test.
+      \setlength\itemsep{1em}
+      \item Can be obtained through \href{https://github.com/dojutsu-user/IMDB-Scraper}{this} GitHub repository;
+      \item Information scraped from the \href{https://imdb.com}{IMDb} website;
+      \item $58623$ movies, from $1910$ to $2019$;
+      \item Useful fields: \texttt{title, year, user\_rating, votes, metascore, actors, genre, directors};
+    \end{itemize}
+
+    \vspace{1em} 
+
+
+  \end{frame}
+
+
+
+  \begin{frame}
+    \frametitle{Addressed questions}
+
+    \begin{itemize}
+      \setlength\itemsep{1em}
+      \item Do users agree with critics' ratings?
+      \item Do women directors cast more women actresses than male directors?
+      \item Which are the most prolific director/actor couples? Do they make good movies?
     \end{itemize}
 
   \end{frame}
@@ -95,6 +119,15 @@
 
 
   \begin{frame}
+    \frametitle{Individual contributions}
+
+    TBD
+
+  \end{frame}
+
+
+
+  \begin{frame}
     \frametitle{References}
 
     \nocite{*}
@@ -106,7 +139,7 @@
     \setbeamercolor{bibliography item}{fg=ThemeBlue}
     \setbeamertemplate{bibliography item}[text]
 
-    \bibliographystyle{abbrv}
+    \bibliographystyle{plain}
     \footnotesize{
       \bibliography{biblio.bib} 
     }

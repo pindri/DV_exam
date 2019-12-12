@@ -608,9 +608,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="343.44034"
-     inkscape:cy="278.25522"
+     inkscape:zoom="1.4"
+     inkscape:cx="524.48662"
+     inkscape:cy="263.31837"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -634,7 +634,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2118,6 +2118,7 @@
          y="1.7848253"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e7e7e7;fill-opacity:1"
    id="tspan5755">Loved</tspan>
+
  by critics,</tspan>
       <tspan
          sodipodi:role="line"
@@ -2126,6 +2127,7 @@
          id="tspan5753"><tspan
    style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e7e7e7;fill-opacity:1"
    id="tspan5757">not so much</tspan>
+
  by audiences</tspan>
     </text>
     <text
@@ -2139,24 +2141,50 @@
          x="15.06017"
          y="15.106445">% gap between Metacritic critics score and IMDB user scores</tspan>
     </text>
+    <text
+       id="text1299"
+       y="17.901005"
+       x="153.45558"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="27.264774"
+         x="153.45558"
+         id="tspan1297"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6f6f6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       x="102.27913"
+       y="120.76749">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6f6f6f;fill-opacity:1;stroke-width:0.35277778"
+         sodipodi:role="line"
+         id="tspan9344"
+         x="102.27913"
+         y="120.76749">Data source: https://github.com/dojutsu-user/IMDB-Scraper</tspan>
+    </text>
     <g
-       id="g5953"
-       transform="translate(6.937752,1.1380006)">
+       id="g1494"
+       transform="translate(4.2333331)" />
+    <g
+       id="g1552"
+       transform="translate(-1.96952)">
       <text
          transform="scale(1.0952677,0.9130188)"
-         y="3.3490326"
-         x="118.44688"
+         y="1.425778"
+         x="131.62378"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c7c7c7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13471894"
          id="text1998-2">
         <tspan
-           sodipodi:role="line"
-           id="tspan5870"
-           x="118.44688"
-           y="3.3490326">Average between user and critics score</tspan>
+           y="1.425778"
+           x="131.62378"
+           id="tspan1440"
+           sodipodi:role="line">Metascore</tspan>
       </text>
       <g
          style="stroke:#c7c7c7;stroke-width:0.49251083;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.60912367,0,0,0.60912367,64.419795,-7.2824412)"
+         transform="matrix(0.60912367,0,0,0.60912367,79.291286,-8.5845422)"
          id="g5850">
         <g
            style="stroke:#c7c7c7;stroke-width:0.49251083;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -2181,18 +2209,58 @@
            cy="18.414629"
            r="3.218714" />
       </g>
+      <text
+         id="text1998-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c7c7c7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13471894"
+         x="155.69987"
+         y="5.3667474"
+         transform="scale(1.0952677,0.9130188)">
+        <tspan
+           y="5.3667474"
+           x="155.69987"
+           id="tspan1413"
+           sodipodi:role="line">Min: 4.6</tspan>
+      </text>
+      <text
+         id="text1998-2-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c7c7c7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13471894"
+         x="155.69987"
+         y="-0.63719636"
+         transform="scale(1.0952677,0.9130188)">
+        <tspan
+           y="-0.63719636"
+           x="155.69987"
+           id="tspan1393-8"
+           sodipodi:role="line"
+           style="stroke-width:0.13471894">Max: 10</tspan>
+      </text>
+      <path
+         d="m 168.36234,-1.2852501 c 0,1.40731097 -1.14085,2.548164 -2.54816,2.548164 -1.40732,0 -2.54817,-1.14085303 -2.54817,-2.548164 0,-1.40731 1.14085,-2.548162 2.54817,-2.548162 1.40731,0 2.54816,1.140852 2.54816,2.548162 z"
+         style="fill:#c7c7c7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.17638887"
+         id="path1358-4"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 166.62821,4.1794795 c 0,0.449578 -0.36446,0.814034 -0.81404,0.814034 -0.44958,0 -0.81403,-0.364456 -0.81403,-0.814034 0,-0.449579 0.36445,-0.814035 0.81403,-0.814035 0.44958,0 0.81404,0.364456 0.81404,0.814035 z"
+         style="fill:#c7c7c7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.17638887"
+         id="path1352-8"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(0.42439695,0,0,0.44232997,75.981703,-14.150294)"
+         style="fill:none;stroke:#c7c7c7;stroke-width:0.46160519;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="g1486">
+        <path
+           style="fill:none;stroke:#c7c7c7;stroke-width:0.46160519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 195.35265,34.001204 c 5.66834,1.280667 -0.11501,11.666717 5.67947,11.659634"
+           id="path1458"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#c7c7c7;stroke-width:0.46160519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 195.35265,34.001204 c 5.66834,-1.280667 -0.11501,-11.666717 5.67947,-11.659634"
+           id="path1458-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
     </g>
-    <text
-       id="text1064"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6f6f6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       x="102.27913"
-       y="120.76749">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6f6f6f;fill-opacity:1;stroke-width:0.35277778"
-         sodipodi:role="line"
-         id="tspan9344"
-         x="102.27913"
-         y="120.76749">Data source: https://github.com/dojutsu-user/IMDB-Scraper</tspan>
-    </text>
   </g>
 </svg>
