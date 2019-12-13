@@ -14,11 +14,10 @@
 \usetheme{Patorikku}
 
 
-\title{Title}
-\subtitle{Subtitle}
-\author{Authors}
+\title{Data Visualisation Exam}
+\subtitle{Visualisations using movie data from IMDb.com}
+\author{Enrico Fallacara, Patrick Indri}
 \date{December 18, 2019}
-\institute{DSSC - Data Visualisation Exam}
 
 
 \begin{document}
@@ -37,7 +36,7 @@
   \begin{frame}
     \frametitle{Topic and dataset introduction}
 
-    \textbf{Topic:} Movies.
+    \textbf{Topic:} Movies and movie reviews.
 
     \vspace{1em} 
 
@@ -48,7 +47,7 @@
     \begin{itemize}
       \setlength\itemsep{1em}
       \item Can be obtained through \href{https://github.com/dojutsu-user/IMDB-Scraper}{this} GitHub repository;
-      \item Information scraped from the \href{https://imdb.com}{IMDb} website;
+      \item Contains information scraped from the \href{https://imdb.com}{IMDb} website;
       \item $58623$ movies, from $1910$ to $2019$;
       \item Useful fields: \texttt{title, year, user\_rating, votes, metascore, actors, genre, directors};
     \end{itemize}
@@ -65,12 +64,43 @@
 
     \begin{itemize}
       \setlength\itemsep{1em}
-      \item Do users agree with critics' ratings?
-      \item Do women directors cast more women actresses than male directors?
       \item Which are the most prolific director/actor couples? Do they make good movies?
+      \item Do women directors cast more women actresses than male directors?
+      \item Do users agree with critics' ratings?
     \end{itemize}
 
   \end{frame}
+
+
+
+  { % all template changes are local to this group.
+      \setbeamertemplate{navigation symbols}{}
+      \begin{frame}<article:0>[plain]
+          \begin{tikzpicture}[remember picture,overlay]
+              \node[at=(current page.center)] {
+                  \includegraphics[keepaspectratio,
+                                   width=\paperwidth,
+                                   height=\paperheight]{img/couples.pdf}
+              };
+          \end{tikzpicture}
+       \end{frame}
+  }
+
+
+
+
+  { % all template changes are local to this group.
+      \setbeamertemplate{navigation symbols}{}
+      \begin{frame}<article:0>[plain]
+          \begin{tikzpicture}[remember picture,overlay]
+              \node[at=(current page.center)] {
+                  \includegraphics[keepaspectratio,
+                                   width=\paperwidth,
+                                   height=\paperheight]{img/gender_v2.pdf}
+              };
+          \end{tikzpicture}
+       \end{frame}
+  }
 
 
 
@@ -89,39 +119,18 @@
 
 
 
-  { % all template changes are local to this group.
-      \setbeamertemplate{navigation symbols}{}
-      \begin{frame}<article:0>[plain]
-          \begin{tikzpicture}[remember picture,overlay]
-              \node[at=(current page.center)] {
-                  \includegraphics[keepaspectratio,
-                                   width=\paperwidth,
-                                   height=\paperheight]{img/gender_v2.pdf}
-              };
-          \end{tikzpicture}
-       \end{frame}
-  }
-
-
-  { % all template changes are local to this group.
-      \setbeamertemplate{navigation symbols}{}
-      \begin{frame}<article:0>[plain]
-          \begin{tikzpicture}[remember picture,overlay]
-              \node[at=(current page.center)] {
-                  \includegraphics[keepaspectratio,
-                                   width=\paperwidth,
-                                   height=\paperheight]{img/couples.pdf}
-              };
-          \end{tikzpicture}
-       \end{frame}
-  }
-
-
-
   \begin{frame}
     \frametitle{Individual contributions}
 
-    TBD
+    \begin{itemize}
+      \setlength\itemsep{1em}
+      \item Dataset parsing: Fallacara, Indri;
+      \item Actor/director visualisation: Fallacara;
+      \item Woman visualisation: Indri;
+      \item Critic gap visualisation: Fallacara, Indri;
+      \item Aesthetic refinements: Indri.
+    \end{itemize}
+
 
   \end{frame}
 
