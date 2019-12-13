@@ -437,16 +437,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59723496"
-     inkscape:cx="973.56547"
-     inkscape:cy="283.88966"
+     inkscape:zoom="0.84461778"
+     inkscape:cx="837.1442"
+     inkscape:cy="446.82295"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="993"
-     inkscape:window-x="29"
-     inkscape:window-y="54"
+     inkscape:window-width="1916"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showguides="false">
     <sodipodi:guide
@@ -708,7 +708,7 @@
     </text>
     <g
        id="g1463"
-       transform="translate(8.7890858,8.1509796)">
+       transform="translate(8.7890858,2.4029231)">
       <g
          transform="translate(3.7041668)"
          id="g1405">
@@ -783,10 +783,21 @@
          x="194.60864"
          y="172.48541">
         <tspan
-           y="172.48541"
+           sodipodi:role="line"
+           id="tspan1103"
            x="194.60864"
-           id="tspan1414"
-           sodipodi:role="line">Darker shades highlight protagonist roles</tspan>
+           y="172.48541"><tspan
+   style="font-weight:bold"
+   id="tspan1109">Darker shades</tspan>
+ highlight <tspan
+   style="font-weight:bold"
+   id="tspan1107">protagonist roles</tspan>
+</tspan>
+        <tspan
+           sodipodi:role="line"
+           id="tspan1105"
+           x="194.60864"
+           y="178.65903">(= first three actors in credits order)</tspan>
       </text>
     </g>
     <text

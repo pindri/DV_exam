@@ -609,8 +609,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="524.48662"
-     inkscape:cy="263.31837"
+     inkscape:cx="381.4716"
+     inkscape:cy="263.25405"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2110,36 +2110,42 @@
        id="text1076-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e7e7e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12300093"
        x="14.632978"
-       y="1.7848253">
+       y="-0.33184135">
       <tspan
          sodipodi:role="line"
          id="tspan5743"
          x="14.632978"
-         y="1.7848253"><tspan
+         y="-0.33184135"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e7e7e7;fill-opacity:1"
    id="tspan5755">Loved</tspan>
-
  by critics,</tspan>
       <tspan
          sodipodi:role="line"
          x="14.632978"
-         y="9.7223253"
+         y="7.6056581"
          id="tspan5753"><tspan
    style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:6.3499999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e7e7e7;fill-opacity:1"
    id="tspan5757">not so much</tspan>
-
  by audiences</tspan>
     </text>
     <text
        id="text1076-80"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c7c7c7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12300093"
        x="15.06017"
-       y="15.106445">
+       y="12.98978">
       <tspan
          sodipodi:role="line"
-         id="tspan5833"
+         id="tspan1319"
          x="15.06017"
-         y="15.106445">% gap between Metacritic critics score and IMDB user scores</tspan>
+         y="12.98978"><tspan
+   style="font-weight:bold"
+   id="tspan1323">% gap</tspan>
+ between Metacritic critics score and IMDB user scores,</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan1321"
+         x="15.06017"
+         y="16.517557">targeting movies with more than 150000 user ratings</tspan>
     </text>
     <text
        id="text1299"
